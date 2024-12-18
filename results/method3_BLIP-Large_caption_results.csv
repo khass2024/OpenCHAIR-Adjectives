@@ -1,0 +1,41 @@
+image_id,original_caption,generated_caption,adjectives,hallucinated
+image_0,A coral-hued bicycle rests half-buried in golden sand under the shade of a twisted obsidian tree.,there is a bike that is parked next to a tree,[],[]
+image_1,"A patchwork kite flutters gently across an amber sky, tethered to a towering, emerald-green windmill.",a painting of a windmill in a field with yellow flowers,[yellow],[True]
+image_2,"A polished brass coffee mug sits forgotten on a floating mahogany plank above still, violet water.",there is a cup of coffee on a table by the water,[],[]
+image_3,A sapphire-hued bird with crystalline wings hovers silently over a bed of golden roses.,a close up of a bird sitting on a branch with yellow roses,[yellow],[False]
+image_4,A weathered wooden violin lies among silver leaves in a dew-drenched forest glade.,violin sitting on the ground in the woods with leaves,[],[]
+image_5,"A soft lavender pillow floats midair in a sun-dappled bedroom, surrounded by swirling silver feathers.",a close up of a bed with a purple comforter and pillows,[purple],[False]
+image_6,A pale blue rabbit peers cautiously out of a glowing moss-covered burrow.,painting of a blue rabbit in a hole in the grass,[blue],[False]
+image_7,A shimmering black staircase ascends through clouds tinted with streaks of orange and teal.,a painting of a stairway leading to a sky with clouds,[],[]
+image_8,A set of marbled white chess pieces scattered across a glassy shoreline lit by a blood-red sunset.,chess pieces are lined up on a reflective surface at sunset,[reflective],[False]
+image_9,A glowing crimson lighthouse stands resolute amidst roaring sapphire waves under a stormy indigo sky.,painting of a lighthouse on a rocky shore with a stormy sky,"[rocky, stormy]","[False, False]"
+image_10,"A school of luminous goldfish glides through a library of floating, emerald-colored books.",there are many goldfishs in the library and many bookshelves,"[many, many]","[False, False]"
+image_11,An intricately carved silver mirror reflects nothing but a swirling violet mist.,there is a mirror that is on a purple wall,[purple],[False]
+image_12,A caramel-brown backpack leans gently against a glowing tree trunk in an iridescent jungle.,there is a backpack sitting on a tree trunk in the jungle,[],[]
+image_13,A golden pineapple with spiked turquoise leaves rests proudly atop a silver platter.,there is a gold pineapple on a silver tray with a blue leaf,"[gold, silver, blue]","[False, False, False]"
+image_14,A swirling vortex of neon-colored butterflies hovers above a field of dusky violet grass.,butterflies on purple background with yellow and blue wings,"[purple, yellow, blue]","[False, False, False]"
+image_15,A crumbling brick castle sits in the middle of a calm lake reflecting the silver-tinted morning sky.,arafed castle sitting on a lake with a sky background,[],[]
+image_16,A collection of glistening ruby buttons scatters across a weathered blue workbench.,arafed red buttons and a jar of blue beads on a table,"[red, blue]","[False, False]"
+image_17,"A pale green fox lounges on a tangerine rock beneath a silver, glowing crescent moon.",there is a fox sitting on a rock with oranges in front of it,[],[]
+image_18,A giant porcelain teapot sits precariously atop an uneven tower of glowing amethyst stones.,purple crystals in a teapot on a stand with a purple background,"[purple, purple]","[False, False]"
+image_19,A translucent silver ladder extends from the forest floor to a swirling crimson-and-indigo sky.,painting of a ladder leading to a bright red spiral in a forest,"[bright, red]","[False, False]"
+image_20,"A luscious green meadow with tiny, whimsical elves dancing beneath a warm sunset sky.",illustration of a fairy land with a lot of flowers and a fairy flying,[],[]
+image_21,A sleek silver smartphone lying on a rough wooden table beside a half-empty porcelain mug.,there is a cup of coffee and a cell phone on a table,[],[]
+image_22,A robust purple donkey wearing a tiny pink bonnet in a dusty barn.,painting of a purple donkey in a barn with a pink blanket,"[purple, pink]","[False, False]"
+image_23,A cluster of vibrant orange t-shirts fluttering on a shaky clothesline under a bright morning sun.,orange shirts hanging on a clothes line outside of a house,[],[]
+image_24,An elegant glass vase holding enormous scarlet roses on a pristine windowsill gleaming with sunlight.,there is a vase of roses sitting on a window sill,[],[]
+image_25,A glossy black piano standing tall in a dimly lit concert hall surrounded by polished wooden chairs.,there is a grand piano in a large room with wooden chairs,"[grand, large, wooden]","[False, False, False]"
+image_26,A gigantic cobalt whale swimming gracefully beneath shimmering teal waves in a silent ocean.,illustration of a whale jumping out of the ocean waves,[],[]
+image_27,A plump yellow capybara munching juicy green leaves beside a tranquil riverbank.,cartoon illustration of a beaver standing on a rock by a pond,[],[]
+image_28,A delicate porcelain teacup resting atop a soft lace doily in a sunlit parlor.,there is a white cup and saucer on a table,[white],[True]
+image_29,A rowdy group of crimson-feathered birds soaring over an expansive sandy desert.,flock of birds flying over a desert area at sunset,[],[]
+image_30,"A lean, spotted cheetah perched atop a jagged gray rock in a quiet savannah.",there is a cheetah standing on a rock in the desert,[],[]
+image_31,A cozy wooden classroom filled with colorful chalk drawings and giggling children.,there are many children sitting at desks in a classroom,[many],[True]
+image_32,"A tall basket of ripe, sapphire-hued berries resting beside a trickling forest stream.",arafed basket of berries sitting on rocks in a stream,[],[]
+image_33,A timid brown hare sniffing around a mossy hollow log beneath a twilight sky.,painting of a rabbit sitting on a log in a field,[],[]
+image_34,A radiant emerald coffee mug steaming gently on a tidy oak desk.,there is a cup of green liquid with a steam rising out of it,[green],[False]
+image_35,A swift aqua dragonfly hovering just above dewy emerald ferns in a shaded grove.,a close up of a dragonfly with a green background,[green],[False]
+image_36,A chunky red watermelon split open on a rough stone slab beneath leafy branches.,there are four slices of watermelon on a stone plate,[],[]
+image_37,A tiny azure butterfly perched lightly on a broad green lily pad in a misty pond.,there is a blue butterfly sitting on a leaf in a pond,[blue],[False]
+image_38,A polished copper doorknob glinting under a warm amber hallway light.,there is a door knob with a gold knob on it,[],[]
+image_39,A narrow wooden footbridge arching over a gentle turquoise stream in a silent glade.,painting of a bridge over a river in a forest,[],[]
