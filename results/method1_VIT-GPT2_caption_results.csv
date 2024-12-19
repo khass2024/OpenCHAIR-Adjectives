@@ -1,0 +1,41 @@
+image_id,original_caption,generated_caption,adjectives,hallucinated
+image_0,A coral-hued bicycle rests half-buried in golden sand under the shade of a twisted obsidian tree.,a person on a bike leaning over a tree ,[],[]
+image_1,"A patchwork kite flutters gently across an amber sky, tethered to a towering, emerald-green windmill.",a painting of a green field with a plant and a clock ,['green'],[False]
+image_2,"A polished brass coffee mug sits forgotten on a floating mahogany plank above still, violet water.",a cup of coffee sitting on top of a wooden table ,['wooden'],[True]
+image_3,A sapphire-hued bird with crystalline wings hovers silently over a bed of golden roses.,a blue bird sitting on a blue vase with flowers ,"['blue', 'blue']","[True, True]"
+image_4,A weathered wooden violin lies among silver leaves in a dew-drenched forest glade.,a small black and white guitar sitting on a tree ,"['small', 'black', 'white']","[True, True, True]"
+image_5,"A soft lavender pillow floats midair in a sun-dappled bedroom, surrounded by swirling silver feathers.",a bed with a white comforter and a white pillow ,"['white', 'white']","[True, True]"
+image_6,A pale blue rabbit peers cautiously out of a glowing moss-covered burrow.,a stuffed animal with a flower in its mouth ,[],[]
+image_7,A shimmering black staircase ascends through clouds tinted with streaks of orange and teal.,a row of wooden railings with water ,['wooden'],[True]
+image_8,A set of marbled white chess pieces scattered across a glassy shoreline lit by a blood-red sunset.,people standing on top of a beach ,[],[]
+image_9,A glowing crimson lighthouse stands resolute amidst roaring sapphire waves under a stormy indigo sky.,a lighthouse with a blue sky and a blue sky background ,"['blue', 'blue']","[True, True]"
+image_10,"A school of luminous goldfish glides through a library of floating, emerald-colored books.",a painting of a bird on a building ,[],[]
+image_11,An intricately carved silver mirror reflects nothing but a swirling violet mist.,a decorative vase with a flower on it ,['decorative'],[False]
+image_12,A caramel-brown backpack leans gently against a glowing tree trunk in an iridescent jungle.,a small brown suitcase sitting on top of a tree ,"['small', 'brown']","[True, False]"
+image_13,A golden pineapple with spiked turquoise leaves rests proudly atop a silver platter.,a flower arrangement on a plate with a flower on a table ,[],[]
+image_14,A swirling vortex of neon-colored butterflies hovers above a field of dusky violet grass.,a series of colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful,"['colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful', 'colorful']","[False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+image_15,A crumbling brick castle sits in the middle of a calm lake reflecting the silver-tinted morning sky.,a large building with a clock on it ,['large'],[True]
+image_16,A collection of glistening ruby buttons scatters across a weathered blue workbench.,a table with a bunch of different colored vases ,['colored'],[False]
+image_17,"A pale green fox lounges on a tangerine rock beneath a silver, glowing crescent moon.",a cat sitting on a cake with a cartoon character ,[],[]
+image_18,A giant porcelain teapot sits precariously atop an uneven tower of glowing amethyst stones.,a cake with a flower on top of it ,[],[]
+image_19,A translucent silver ladder extends from the forest floor to a swirling crimson-and-indigo sky.,a staircase with a red and white curtain ,"['red', 'white']","[True, True]"
+image_20,"A luscious green meadow with tiny, whimsical elves dancing beneath a warm sunset sky.",a painting of a colorful jungle with a bunch of flowers ,['colorful'],[False]
+image_21,A sleek silver smartphone lying on a rough wooden table beside a half-empty porcelain mug.,a coffee cup sitting on top of a wooden table ,['wooden'],[False]
+image_22,A robust purple donkey wearing a tiny pink bonnet in a dusty barn.,a horse with a blue and white stripe on its head ,"['blue', 'white']","[True, True]"
+image_23,A cluster of vibrant orange t-shirts fluttering on a shaky clothesline under a bright morning sun.,a row of umbrellas hanging from a building ,[],[]
+image_24,An elegant glass vase holding enormous scarlet roses on a pristine windowsill gleaming with sunlight.,a vase filled with red roses sitting on a window sill ,['red'],[False]
+image_25,A glossy black piano standing tall in a dimly lit concert hall surrounded by polished wooden chairs.,a piano sitting on top of a wooden table ,['wooden'],[False]
+image_26,A gigantic cobalt whale swimming gracefully beneath shimmering teal waves in a silent ocean.,a painting of a large blue wave in the ocean ,"['large', 'blue']","[False, False]"
+image_27,A plump yellow capybara munching juicy green leaves beside a tranquil riverbank.,a statue of a bear sitting on a tree ,[],[]
+image_28,A delicate porcelain teacup resting atop a soft lace doily in a sunlit parlor.,a white cup with a white flower in it ,"['white', 'white']","[False, False]"
+image_29,A rowdy group of crimson-feathered birds soaring over an expansive sandy desert.,a large group of birds flying over a sandy beach ,"['large', 'sandy']","[False, False]"
+image_30,"A lean, spotted cheetah perched atop a jagged gray rock in a quiet savannah.",a small brown and white animal standing on top of a rock ,"['small', 'brown', 'white']","[True, True, True]"
+image_31,A cozy wooden classroom filled with colorful chalk drawings and giggling children.,a classroom with a large group of students ,['large'],[True]
+image_32,"A tall basket of ripe, sapphire-hued berries resting beside a trickling forest stream.",a basket filled with water and plants in a river ,[],[]
+image_33,A timid brown hare sniffing around a mossy hollow log beneath a twilight sky.,a small brown bear sitting on a rock ,"['small', 'brown']","[True, False]"
+image_34,A radiant emerald coffee mug steaming gently on a tidy oak desk.,a coffee cup with a coffee mug on top of it ,[],[]
+image_35,A swift aqua dragonfly hovering just above dewy emerald ferns in a shaded grove.,a close up of a picture of a green plant ,['green'],[False]
+image_36,A chunky red watermelon split open on a rough stone slab beneath leafy branches.,a red and white knife and some red and green leaves ,"['red', 'white', 'red', 'green']","[False, True, False, True]"
+image_37,A tiny azure butterfly perched lightly on a broad green lily pad in a misty pond.,a blue flower in a green vase on a green surface ,"['blue', 'green', 'green']","[False, False, False]"
+image_38,A polished copper doorknob glinting under a warm amber hallway light.,a light fixture in a wall with a mirror ,['light'],[False]
+image_39,A narrow wooden footbridge arching over a gentle turquoise stream in a silent glade.,a wooden bench sitting next to a river ,['wooden'],[False]
