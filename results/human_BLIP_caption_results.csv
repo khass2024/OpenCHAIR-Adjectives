@@ -1,0 +1,41 @@
+image_id,original_caption,generated_caption,adjectives,hallucinated
+image_0,A coral-hued bicycle rests half-buried in golden sand under the shade of a twisted obsidian tree.,a bike parked under a tree in the desert,[],[]
+image_1,"A patchwork kite flutters gently across an amber sky, tethered to a towering, emerald-green windmill.",a windmill in a green field with yellow flowers,"['green', 'yellow']","[False, False]"
+image_2,"A polished brass coffee mug sits forgotten on a floating mahogany plank above still, violet water.",a cup of coffee,[],[]
+image_3,A sapphire-hued bird with crystalline wings hovers silently over a bed of golden roses.,a blue bird sitting on a branch of roses,['blue'],[False]
+image_4,A weathered wooden violin lies among silver leaves in a dew-drenched forest glade.,a violin on the ground in the woods,[],[]
+image_5,"A soft lavender pillow floats midair in a sun-dappled bedroom, surrounded by swirling silver feathers.",a purple bedroom with a white bed and purple walls,"['purple', 'white', 'purple']","[False, False, False]"
+image_6,A pale blue rabbit peers cautiously out of a glowing moss-covered burrow.,a rabbit in the woods,[],[]
+image_7,A shimmering black staircase ascends through clouds tinted with streaks of orange and teal.,a stairway leading to a sky with clouds,[],[]
+image_8,A set of marbled white chess pieces scattered across a glassy shoreline lit by a blood-red sunset.,a chess game with the sun setting behind it,[],[]
+image_9,A glowing crimson lighthouse stands resolute amidst roaring sapphire waves under a stormy indigo sky.,a painting of a lighthouse in the ocean,[],[]
+image_10,"A school of luminous goldfish glides through a library of floating, emerald-colored books.",a goldfish in a library with many books,['many'],[False]
+image_11,An intricately carved silver mirror reflects nothing but a swirling violet mist.,a mirror with a floral design on it,['floral'],[False]
+image_12,A caramel-brown backpack leans gently against a glowing tree trunk in an iridescent jungle.,a backpack sitting on top of a tree in the middle of a forest,[],[]
+image_13,A golden pineapple with spiked turquoise leaves rests proudly atop a silver platter.,a gold pineapple on a plate with a blue and gold leaf,"['gold', 'blue', 'gold']","[False, False, False]"
+image_14,A swirling vortex of neon-colored butterflies hovers above a field of dusky violet grass.,seamless butterflies on purple background,"['seamless', 'purple']","[True, False]"
+image_15,A crumbling brick castle sits in the middle of a calm lake reflecting the silver-tinted morning sky.,a castle with a reflection in the water,[],[]
+image_16,A collection of glistening ruby buttons scatters across a weathered blue workbench.,red buttons and buttons on a blue table,"['red', 'blue']","[False, False]"
+image_17,"A pale green fox lounges on a tangerine rock beneath a silver, glowing crescent moon.",a fox sitting on a rock with oranges,[],[]
+image_18,A giant porcelain teapot sits precariously atop an uneven tower of glowing amethyst stones.,a white teapot with purple crystals on top,"['white', 'purple']","[False, False]"
+image_19,A translucent silver ladder extends from the forest floor to a swirling crimson-and-indigo sky.,a ladder leading to a red forest with a full moon in the sky,"['red', 'full']","[False, True]"
+image_20,"A luscious green meadow with tiny, whimsical elves dancing beneath a warm sunset sky.",a cartoon scene with a forest and flowers,[],[]
+image_21,A sleek silver smartphone lying on a rough wooden table beside a half-empty porcelain mug.,a cup of coffee and a cell on a wooden table,['wooden'],[False]
+image_22,A robust purple donkey wearing a tiny pink bonnet in a dusty barn.,a painting of a donkey in a barn,[],[]
+image_23,A cluster of vibrant orange t-shirts fluttering on a shaky clothesline under a bright morning sun.,orange shirts hanging on a clothes line,[],[]
+image_24,An elegant glass vase holding enormous scarlet roses on a pristine windowsill gleaming with sunlight.,a vase of red roses sitting on a window sie,['red'],[False]
+image_25,A glossy black piano standing tall in a dimly lit concert hall surrounded by polished wooden chairs.,a grand piano,['grand'],[False]
+image_26,A gigantic cobalt whale swimming gracefully beneath shimmering teal waves in a silent ocean.,a whale in the ocean with a blue sky and clouds,['blue'],[False]
+image_27,A plump yellow capybara munching juicy green leaves beside a tranquil riverbank.,a beaver standing on a rock in the water,[],[]
+image_28,A delicate porcelain teacup resting atop a soft lace doily in a sunlit parlor.,a cup and saucer on a table,[],[]
+image_29,A rowdy group of crimson-feathered birds soaring over an expansive sandy desert.,a desert with birds flying in the sky,[],[]
+image_30,"A lean, spotted cheetah perched atop a jagged gray rock in a quiet savannah.",a che che che che che che che che che che che che che che che che che che che che,[],[]
+image_31,A cozy wooden classroom filled with colorful chalk drawings and giggling children.,a classroom with children sitting at desks,[],[]
+image_32,"A tall basket of ripe, sapphire-hued berries resting beside a trickling forest stream.",a basket of berries sits on a rock in a stream,[],[]
+image_33,A timid brown hare sniffing around a mossy hollow log beneath a twilight sky.,a rabbit sitting on a log in the grass,[],[]
+image_34,A radiant emerald coffee mug steaming gently on a tidy oak desk.,a cup of coffee with a green liquid,['green'],[False]
+image_35,A swift aqua dragonfly hovering just above dewy emerald ferns in a shaded grove.,dragon dragon wallpapers - screenshote,[],[]
+image_36,A chunky red watermelon split open on a rough stone slab beneath leafy branches.,watermelon on a rock,[],[]
+image_37,A tiny azure butterfly perched lightly on a broad green lily pad in a misty pond.,a blue butterfly sitting on top of lily pads,"['blue', 'lily']","[False, False]"
+image_38,A polished copper doorknob glinting under a warm amber hallway light.,a close up of a door handle,[],[]
+image_39,A narrow wooden footbridge arching over a gentle turquoise stream in a silent glade.,a bridge over a river in the woods,[],[]
