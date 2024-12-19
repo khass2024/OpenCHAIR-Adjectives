@@ -9,7 +9,7 @@ image_6,A pale blue rabbit peers cautiously out of a glowing moss-covered burrow
 image_7,A shimmering black staircase ascends through clouds tinted with streaks of orange and teal.,a stairway leading to a sky with clouds,[],[]
 image_8,A set of marbled white chess pieces scattered across a glassy shoreline lit by a blood-red sunset.,a chess game with the sun setting behind it,[],[]
 image_9,A glowing crimson lighthouse stands resolute amidst roaring sapphire waves under a stormy indigo sky.,a painting of a lighthouse in the ocean,[],[]
-image_10,"A school of luminous goldfish glides through a library of floating, emerald-colored books.",a goldfish in a library with many books,[],[]
+image_10,"A school of luminous goldfish glides through a library of floating, emerald-colored books.",a goldfish in a library with many books,['many'],[False]
 image_11,An intricately carved silver mirror reflects nothing but a swirling violet mist.,a mirror with a floral design on it,['floral'],[True]
 image_12,A caramel-brown backpack leans gently against a glowing tree trunk in an iridescent jungle.,a backpack sitting on top of a tree in the middle of a forest,[],[]
 image_13,A golden pineapple with spiked turquoise leaves rests proudly atop a silver platter.,a gold pineapple on a plate with a blue and gold leaf,"['gold', 'blue', 'gold']","[False, True, False]"
@@ -24,7 +24,7 @@ image_21,A sleek silver smartphone lying on a rough wooden table beside a half-e
 image_22,A robust purple donkey wearing a tiny pink bonnet in a dusty barn.,a painting of a donkey in a barn,[],[]
 image_23,A cluster of vibrant orange t-shirts fluttering on a shaky clothesline under a bright morning sun.,orange shirts hanging on a clothes line,[],[]
 image_24,An elegant glass vase holding enormous scarlet roses on a pristine windowsill gleaming with sunlight.,a vase of red roses sitting on a window sie,['red'],[False]
-image_25,A glossy black piano standing tall in a dimly lit concert hall surrounded by polished wooden chairs.,a grand piano,[],[]
+image_25,A glossy black piano standing tall in a dimly lit concert hall surrounded by polished wooden chairs.,a grand piano,['grand'],[False]
 image_26,A gigantic cobalt whale swimming gracefully beneath shimmering teal waves in a silent ocean.,a whale in the ocean with a blue sky and clouds,['blue'],[False]
 image_27,A plump yellow capybara munching juicy green leaves beside a tranquil riverbank.,a beaver standing on a rock in the water,[],[]
 image_28,A delicate porcelain teacup resting atop a soft lace doily in a sunlit parlor.,a cup and saucer on a table,[],[]

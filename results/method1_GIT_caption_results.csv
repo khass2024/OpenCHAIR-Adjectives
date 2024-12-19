@@ -37,5 +37,5 @@ image_34,A radiant emerald coffee mug steaming gently on a tidy oak desk.,a cup 
 image_35,A swift aqua dragonfly hovering just above dewy emerald ferns in a shaded grove.,dragonfly in the ferns,[],[]
 image_36,A chunky red watermelon split open on a rough stone slab beneath leafy branches.,a slice of watermelon,[],[]
 image_37,A tiny azure butterfly perched lightly on a broad green lily pad in a misty pond.,a butterfly in the water,[],[]
-image_38,A polished copper doorknob glinting under a warm amber hallway light.,the door knob is a classic design,[],[]
+image_38,A polished copper doorknob glinting under a warm amber hallway light.,the door knob is a classic design,['classic'],[False]
 image_39,A narrow wooden footbridge arching over a gentle turquoise stream in a silent glade.,the bridge is made of wood,[],[]
